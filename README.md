@@ -1,4 +1,4 @@
-# douban_movie_spider 豆瓣电影抓取和WoldCloud生成
+# douban_movie_spider 豆瓣电影抓取和WordCloud生成
 
 ## 运行步骤
 
